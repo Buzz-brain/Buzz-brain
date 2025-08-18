@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 
 **Buzz-brain/Buzz-brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...<h1 align="center">Hi 👋, I'm Chinomso Nduoma</h1>
+- ⚡ Fun fact: ... -->
+<h1 align="center">Hi 👋, I'm Chinomso Nduoma</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buzz-brain&label=Profile%20views&color=0e75b6&style=flat" alt="buzz-brain" /> </p>
