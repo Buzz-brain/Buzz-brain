@@ -1,45 +1,54 @@
-<!-- ## Hi there 👋
 
-
-**Buzz-brain/Buzz-brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<h1 align="center">Hi 👋, I'm Chinomso Nduoma</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buzz-brain&label=Profile%20views&color=0e75b6&style=flat" alt="buzz-brain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buzz-brain" alt="buzz-brain" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **chinomsochristian03@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/buzz brain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="buzz brain" height="30" width="40" /></a>
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinomso+Nduoma;Senior+Fullstack+Engineer+%7C+Tech+Lead+%7C+Architect;Building+robust%2C+scalable%2C+and+beautiful+products;Passionate+about+innovation+and+mentorship" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=buzz-brain&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buzz-brain&show_icons=true&locale=en&layout=compact" alt="buzz-brain" /></p>
+<div align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=buzz-brain&theme=algolia&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buzz-brain&show_icons=true&locale=en" alt="buzz-brain" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buzz-brain&" alt="buzz-brain" /></p>
+<h2 align="center">🚀 About Me</h2>
 
--->
+<p align="center">
+	<b>Senior Fullstack Engineer</b> with 7+ years of experience architecting, developing, and leading high-impact web and cloud solutions.<br>
+	<b>Expertise:</b> React, Next.js, Node.js, TypeScript, MongoDB, SQL, Microservices, DevOps, UI/UX, and more.<br>
+	<b>Leadership:</b> Tech Lead, Mentor, and Open Source Contributor.<br>
+	<b>Philosophy:</b> Clean code, scalable systems, and continuous learning.
+</p>
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,html,css,tailwind,express,nestjs,mongodb,mysql,git,figma,postman,docker,aws,vercel" />
+</p>
+
+<h2 align="center">🌟 GitHub Stats</h2>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=buzz-brain&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=buzz-brain&theme=algolia&hide_border=true" alt="GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzz-brain&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<h2 align="center">🤝 Connect with Me</h2>
+<p align="center">
+	<a href="mailto:chinomsochristian03@gmail.com"><img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://dev.to/buzzbrain"><img src="https://img.shields.io/badge/Dev.to-36BCF7?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+	<!-- Add more social links as needed -->
+</p>
+
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
