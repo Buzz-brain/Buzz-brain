@@ -23,7 +23,7 @@
 <h2 align="center">🚀 Mission & Value</h2>
 <p align="center">
 	<b>My mission is to architect, build, and deliver robust, scalable, and beautiful digital products that empower users and drive business growth.</b><br>
-	I thrive at the intersection of technology, design, and leadership—turning complex challenges into elegant solutions.
+	I thrive at the intersection of technology, design, and leadership, turning complex challenges into elegant solutions.
 </p>
 
 <h2 align="center">💡 Core Competencies</h2>
